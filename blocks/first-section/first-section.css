@@ -1,0 +1,6 @@
+.first-section {
+    display: flex;
+    padding: 50px;
+    width: 65%;
+    justify-content: space-between;
+}

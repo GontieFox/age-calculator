@@ -1,0 +1,19 @@
+.second-section__btn {
+  width: 80px;
+  height: 80px;
+  border: none;
+  background-color: hsl(259, 100%, 65%);
+  background-image: url(/images/icon-arrow.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 100px;
+  position: absolute;
+  right: 5%;
+  top: -30px;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+}
+
+.second-section__btn:hover {
+    background-color: hsl(0, 0%, 8%);
+}

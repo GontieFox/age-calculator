@@ -1,0 +1,6 @@
+.second-section__line {
+    border: none;
+    height: 1px;
+    background-color: hsl(0, 0%, 86%);
+    width: 85%;
+}

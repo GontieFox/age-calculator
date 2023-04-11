@@ -6,12 +6,47 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Age calculator</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" type="image/x-icon" href="/assets/images/favicon-32x32.png">
+    <link rel="stylesheet" href="/pages/index.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon-32x32.png">
 </head>
 
 <body>
-
+    <section class="background">
+        <div class="card">
+            <div class="first-section">
+                <div class="first-section__form">
+                    <label class="first-section__label">Day</label>
+                    <input class="first-section__input" type="number" placeholder="DD">
+                </div>
+                <div class="first-section__form">
+                    <label class="first-section__label">Month</label>
+                    <input class="first-section__input" type="number" placeholder="MM">
+                </div>
+                <div class="first-section__form">
+                    <label class="first-section__label">Year</label>
+                    <input class="first-section__input" type="number" placeholder="YYYY">
+                </div>
+            </div>
+            <div class="second-section">
+                <hr class="second-section__line">
+                <button class="second-section__btn"></button>
+            </div>
+            <div class="third-section">
+                <div class="third-section__text">
+                    <span class="third-section__span">--</span>
+                    <h2 class="third-section__title">years</h2>
+                </div>
+                <div class="third-section__text">
+                    <span class="third-section__span">--</span>
+                    <h2 class="third-section__title">months</h2>
+                </div>
+                <div class="third-section__text">
+                    <span class="third-section__span">--</span>
+                    <h2 class="third-section__title">days</h2>
+                </div>
+            </div>
+        </div>
+    </section>
     <script src="script.js"></script>
 </body>
 
