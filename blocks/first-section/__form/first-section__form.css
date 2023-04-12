@@ -1,4 +1,4 @@
 .first-section__form {
    display: grid;
-   
+   position: relative;
 }

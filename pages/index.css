@@ -9,6 +9,7 @@
 @import url(../blocks/first-section/__form/first-section__form.css);
 @import url(../blocks/first-section/__input/first-section__input.css);
 @import url(../blocks/first-section/__label/first-section__label.css);
+@import url(../blocks/first-section/__error/first-section__error.css);
 
 @import url(../blocks/second-section/second-section.css);
 @import url(../blocks/second-section/__line/second-section__line.css);
