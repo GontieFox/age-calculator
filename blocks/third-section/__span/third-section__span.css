@@ -4,3 +4,15 @@
     font-style: italic;
     font-size: 64px;
 }
+
+@media (max-width: 750px) {
+    .third-section__span {
+        font-size: 54px;
+    }
+}
+
+@media (max-width: 380px) {
+    .third-section__span {
+        font-size: 46px;
+    }
+}

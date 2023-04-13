@@ -15,5 +15,20 @@
 }
 
 .second-section__btn:hover {
-    background-color: hsl(0, 0%, 8%);
+  background-color: hsl(0, 0%, 8%);
+}
+
+@media (max-width: 750px) {
+  .second-section__btn {
+    right: 50%;
+    transform: translate(50%);
+  }
+}
+
+@media (max-width: 510px) {
+  .second-section__btn {
+    top: -25px;
+    width: 65px;
+    height: 65px;
+  }
 }

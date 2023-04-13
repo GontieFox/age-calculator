@@ -2,3 +2,15 @@
   display: flex;
   position: relative;
 }
+
+@media (max-width: 750px) {
+  .second-section {
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 510px) {
+  .second-section {
+    margin-top: 60px;
+  }
+}

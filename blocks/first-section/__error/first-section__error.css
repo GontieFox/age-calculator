@@ -1,9 +1,9 @@
 .first-section__error {
-    display: none;
-    color: hsl(0, 100%, 67%);
-    font-size: 12px;
-    margin-top: 10px;
-    font-style: italic;
-    position: absolute;
-    top: 80px;
+  display: none;
+  color: hsl(0, 100%, 67%);
+  font-size: 12px;
+  margin-top: 10px;
+  font-style: italic;
+  position: absolute;
+  top: 80px;
 }

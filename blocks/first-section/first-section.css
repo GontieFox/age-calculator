@@ -4,3 +4,16 @@
     width: 65%;
     justify-content: space-between;
 }
+
+@media (max-width: 750px) {
+    .first-section {
+        width: 80%;
+    }
+}
+
+@media (max-width: 510px) {
+    .first-section {
+        padding: 30px;
+        width: 80%;
+    }
+}

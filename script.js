@@ -40,7 +40,7 @@ function validateInput() {
     } else {
         yearError.style.display = "none"
     }
-
+    
     return isValid;
 }
 
