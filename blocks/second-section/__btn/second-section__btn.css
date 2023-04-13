@@ -3,7 +3,7 @@
   height: 80px;
   border: none;
   background-color: hsl(259, 100%, 65%);
-  background-image: url(/images/icon-arrow.svg);
+  background-image: url(./../../../images/icon-arrow.svg);
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 100px;
